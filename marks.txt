@@ -1,0 +1,4 @@
+boi=50
+chem=60
+phy=70
+math=80
